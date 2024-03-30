@@ -72,6 +72,14 @@
   ...
   ```
   📁 jsxCode 에 작성한 컴포넌트들을 HTML 구조의 순서대로 호출<br>
+
+  <br>
   
+# 📖 Figma로 SPA 기획하기
+
+- 피그마 커뮤니티의 템플릿을 수정하여 만들었습니다.
+
+![Portfolio.png](./Figma_Portfolio/Portfolio.png)
+<br>
 
 <hr>
