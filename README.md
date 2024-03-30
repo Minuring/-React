@@ -5,15 +5,25 @@
 <hr>
 
 - [**깃허브 페이지**](./web/)<br>
-[**Github Pages로 호스팅한 웹 페이지**](http://minuring.github.io/React)의 css, js, images 등의 파일들입니다.<br>
-[index.html](./index.html)
+  - [**링크** (Github Pages로 호스팅한 웹 페이지)](http://minuring.github.io/React) 의 css, js, images 등의 파일들<br>
 
 <hr>
 
 - [**리액트 빌드하기**](./0322/)<br>
+  - [**링크**](https://minuring.github.io/React/0322/build/)
 
   2024-03-22 (3주차)<br>
   리액트 시작하기 ( NPM, NPX, 프로젝트 생성, 빌드, 배포, 프로젝트 구조 등 )
 
+<hr>
+
+- [**자기소개 페이지, JSX, 피그마 기획**](./0329/)<br>
+  - [**HTML, Javascript로 작성한 자기소개 페이지 링크**](https://minuring.github.io/React/0329/intro_normal)<br>
+  - [**JSX로 작성한 자기소개 페이지 링크**](https://minuring.github.io/React/0329/build/)
+
+  2024-03-29 (4주차)<br>
+  • HTML, JS로 간단한 자기 소개 웹 페이지 만들기<br>
+  • JSX로 웹 페이지 만들기<br>
+  • Figma로 SPA 기획하기
 
 <hr>
