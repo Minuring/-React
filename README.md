@@ -38,3 +38,17 @@
   • 2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기
 
 <hr>
+
+- [**컴포넌트와 State 활용하기**](./0412/)<br>
+  - [**자기소개 페이지 링크**](https://minuring.github.io/React/0412/intro/build/)
+
+  - [**회원가입 페이지 링크**](https://minuring.github.io/React/0412/signup/build/)
+
+  2024-04-12 (6주차)<br>
+  • 웹사이트를 5개 이상의 컴포넌트로 구성하기<br>
+  • 2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기<br>
+  • 2개 이상의 state를 가진 컴포넌트를 하나 이상 포함하기<br>
+  • 1개 이상의 props와 1개 이상의 state를 가진 컴포넌트를 하나 이상 포함하기<br>
+  • 회원가입 페이지 만들기<br>
+
+<hr>
