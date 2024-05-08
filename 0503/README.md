@@ -6,7 +6,7 @@
 
 <hr> 
 
-- [**자기소개 페이지 링크** (Github Pages)](https://minuring.github.io/React/0513/build) : 1번 커스텀훅 : useTheme 작성해 사용<br>
+- [**자기소개 페이지 링크** (Github Pages)](https://minuring.github.io/React/0503/build) : 1번 커스텀훅 : useTheme 작성해 사용<br>
 
 <br>
 
