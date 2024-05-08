@@ -140,3 +140,10 @@
 
   export default ThemeContext;
   </pre>
+
+<hr>
+
+- ## 피그마 웹 사이트 기획<br>
+- 피그마 커뮤니티의 템플릿을 수정하여 만들었습니다.
+
+![Portfolio.png](./Figma/Portfolio.png)
